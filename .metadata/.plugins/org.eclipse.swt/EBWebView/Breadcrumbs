@@ -1,0 +1,106 @@
+0:27:56 Tab6 StartNav77 #typed
+0:27:56 Tab6 FinishNav77
+0:27:56 Tab6 PageLoad
+0:28:03 Tab6 StartNav78 #typed
+0:28:03 Tab6 FinishNav78
+0:28:03 Tab6 PageLoad
+0:28:04 Tab6 StartNav79 #typed
+0:28:04 Tab6 FinishNav79
+0:28:04 Tab6 PageLoad
+0:28:05 Tab6 StartNav80 #typed
+0:28:05 Tab6 FinishNav80
+0:28:05 Tab6 PageLoad
+0:28:05 Tab6 StartNav81 #typed
+0:28:05 Tab6 FinishNav81
+0:28:05 Tab6 PageLoad
+11:28:57 Tab6 StartNav82 #typed
+11:28:57 Tab6 FinishNav82
+11:28:57 Tab6 PageLoad
+11:29:19 Tab6 StartNav83 #typed
+11:29:19 Tab6 FinishNav83
+11:29:19 Tab6 PageLoad
+11:29:27 Tab6 StartNav84 #typed
+11:29:27 Tab6 FinishNav84
+11:29:27 Tab6 PageLoad
+11:30:08 Tab6 StartNav85 #typed
+11:30:08 Tab6 FinishNav85
+11:30:08 Tab6 PageLoad
+11:30:09 Tab6 StartNav86 #typed
+11:30:09 Tab6 FinishNav86
+11:30:09 Tab6 PageLoad
+11:30:10 Tab6 StartNav87 #typed
+11:30:10 Tab6 FinishNav87
+11:30:10 Tab6 PageLoad
+11:30:38 Tab6 StartNav88 #typed
+11:30:38 Tab6 FinishNav88
+11:30:38 Tab6 PageLoad
+11:31:32 Tab6 StartNav89 #typed
+11:31:32 Tab6 FinishNav89
+11:31:32 Tab6 PageLoad
+11:32:04 Tab5 StartNav90 #typed
+11:32:04 Tab5 FinishNav90
+11:32:04 Tab5 PageLoad
+11:32:04 Tab6 StartNav91 #typed
+11:32:04 Tab6 FinishNav91
+11:32:04 Tab6 PageLoad
+11:32:14 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+11:32:14 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
+11:32:14 Microsoft.Shutdown.OnWindowClosing
+11:32:14 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+11:32:14 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+11:32:14 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+11:32:14 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+11:32:14 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+11:32:14 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+11:32:14 Microsoft.Shutdown.TabStripModel.CloseTabs
+11:32:14 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+11:32:14 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+11:32:14 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+11:32:14 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+11:32:14 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+11:32:14 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+11:32:14 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+11:32:14 Tab6 RenderProcessGone
+11:32:14 Microsoft.UnloadController.ClearUnloadState
+11:32:14 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+11:32:14 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+11:32:14 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+11:32:14 Microsoft.UnloadController.ClearUnloadState
+11:32:14 Browser6 Close Tab6 at 0
+11:32:14 Tab6 WebContentsDestroyed
+11:32:14 Microsoft.UnloadController.TabStripEmpty
+11:32:14 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+11:32:14 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+11:32:14 Microsoft.Shutdown.OnWindowClosing
+11:32:14 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+11:32:14 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+11:32:14 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+11:32:14 Widget Closed: BrowserFrame
+11:32:14 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+11:32:14 Microsoft.Shutdown.OnWindowClosing
+11:32:14 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+11:32:14 Microsoft.Browser_Removed
+11:32:14 Microsoft.NewBrowser_Popup
+11:32:15 Microsoft.BrowserList.AddBrowser
+11:32:15 Browser7 Insert active Tab7 at 0
+11:32:15 Tab7 StartNav92 #auto_toplevel
+11:32:15 Tab7 StartNav93 #typed
+11:32:15 Tab7 FinishNav92
+11:32:15 Tab7 PageLoad
+11:32:15 Tab7 FinishNav93
+11:32:15 Tab7 PageLoad
+11:32:16 Tab7 StartNav94 #typed
+11:32:16 Tab7 FinishNav94
+11:32:16 Tab7 PageLoad
+11:32:44 Microsoft.NewBrowser_Popup
+11:32:44 Microsoft.BrowserList.AddBrowser
+11:32:44 Browser8 Insert active Tab8 at 0
+11:32:44 Tab8 StartNav95 #auto_toplevel
+11:32:44 Tab8 StartNav96 #typed
+11:32:44 Tab8 FinishNav95
+11:32:44 Tab8 PageLoad
+11:32:44 Tab8 FinishNav96
+11:32:44 Tab8 PageLoad
+11:32:47 Tab8 StartNav97 #typed
+11:32:47 Tab8 FinishNav97
+11:32:47 Tab8 PageLoad
